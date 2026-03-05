@@ -1,41 +1,38 @@
-👋 Ciao, sono Rosa Viceconte
+👋 Hi, I'm Rosa Viceconte
 
-<p align="center">   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+in+formazione;Sempre+imparando+cose+nuove;Appassionata+di+tecnologia&center=true&width=380&height=45&color=6A0DAD&vCenter=true"> </p>
-📊 Chi sono e cosa voglio fare
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+in+training;Always+learning+new+things;Tech+enthusiast&center=true&width=380&height=45&color=6A0DAD&vCenter=true"> </p>
+📊 Who I am and what I want to do
 
-Diplomata in Informatica e Telecomunicazioni, sto costruendo il mio percorso per diventare Data Analyst.<br> Dopo aver studiato Excel in autonomia, ora sto approfondendo SQL, con l'obiettivo di aggiungere statistica e big data per completare la mia formazione.
-<br>
-📚 Il mio piano di studi
+Graduated in Computer Science and Telecommunications, I'm building my path to become a Data Analyst.
+After studying Excel on my own, I'm now deepening my SQL knowledge, with the goal of adding statistics and big data to complete my education.
 
+📚 My study plan
 
+text
 📊 Data Analyst Roadmap
-├── 📈 Fase 1: Fondamenti (in corso)<br>
-│   ├── Excel (✅ completato)<br>
-│   └── SQL (🔄 approfondimento in corso)<br>
-├── 📊 Fase 2: Analisi & Statistica (in programma)<br>
-│   ├── Statistica descrittiva
-│   └── Statistica inferenziale<br>
-└── 🔍 Fase 3: Big Data & Advanced Analytics (in programma)<br>
-    ├── Python per l'analisi dati
-    └── Strumenti Big Data
-🛠️ Competenze in evoluzione
+├── 📈 Phase 1: Fundamentals (in progress)<br>
+│   ├── Excel (✅ completed)<br>
+│   └── SQL (🔄 currently studying)<br>
+├── 📊 Phase 2: Analysis & Statistics (planned)<br>
+│   ├── Descriptive Statistics<br>
+│   └── Inferential Statistics<br>
+└── 🔍 Phase 3: Big Data & Advanced Analytics (planned)<br>
+    ├── Python for Data Analysis<br>
+    └── Big Data Tools<br>
+🛠️ Evolving Skills
 
-<p align="left"> <strong>📊 Database & Query:</strong><br> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /> <br><br> <strong> <br><br> <strong>📚 Prossimi step:</strong><br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Statistica-FF6F00?style=flat-square&logo=statista&logoColor=white" /> <img src="https://img.shields.io/badge/Big_Data-00599C?style=flat-square&logo=apache&logoColor=white" /> </p>
-🎓 Formazione
+<p align="left"> <strong>📊 Database & Query:</strong><br> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /> <br><br> <strong>📚 Next steps:</strong><br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Statistics-FF6F00?style=flat-square&logo=statista&logoColor=white" /> <img src="https://img.shields.io/badge/Big_Data-00599C?style=flat-square&logo=apache&logoColor=white" /> </p>
+🎓 Education
 
-Diploma in Informatica e Telecomunicazioni
-Autodidatta in: Excel, SQL
-In arrivo: Statistica, Big Data, Python
-🎮 Quando non studio dati... (la mia vita in pillole)
+Diploma in Computer Science and Telecommunications
+Self-taught in: Excel, SQL
+Coming up: Statistics, Big Data, Python
+🎮 When I'm not studying data... (my life in pills)
 
 
-📚 Lettura:      [████████░░] 80% (di cui manga in aumento esponenziale)<br>
-🎹 Piano:        [██████░░░░] 60% (Evgeny Grinko quando sono ispirata)<br>
-✏️ Disegno:       [███████░░░] 70% (ritratti e scarabocchi)<br>
-🔍 Notizie strane:[██████████] 100% (sempre alla ricerca del bizzarro)<br>
-🧠 Psicologia:    [███████░░░] 70% (capire le persone)<br>
-⚡ Fun fact: Sto pensando di analizzare i pattern emotivi nei manga che leggo...
-
-📫 Contattami
-
-<p align="left"> <a href="https://www.linkedin.com/in/rosa-viceconte-1b14873a0/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="mailto:rosa.viceconte.it@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
+📚 Reading:      [████████░░] 80% (with manga exponentially increasing)<br>
+🎹 Piano:        [██████░░░░] 60% (Evgeny Grinko when I'm inspired)<br>
+✏️ Drawing:       [███████░░░] 70% (portraits and doodles)<br>
+🔍 Weird news:   [██████████] 100% (always on the hunt for the bizarre)<br>
+🧠 Psychology:   [███████░░░] 70% (understanding people)<br>
+⚡ Fun fact: I'm thinking about analyzing emotional patterns in the manga I read...
