@@ -3,7 +3,7 @@
 <p align="center">   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+in+formazione;Sempre+imparando+cose+nuove;Appassionata+di+tecnologia&center=true&width=380&height=45&color=6A0DAD&vCenter=true"> </p>
 📊 Chi sono e cosa voglio fare
 
-Diplomata in Informatica e Telecomunicazioni, sto costruendo il mio percorso per diventare Data Analyst. Dopo aver studiato Excel in autonomia, ora sto approfondendo SQL, con l'obiettivo di aggiungere statistica e big data per completare la mia formazione.
+Diplomata in Informatica e Telecomunicazioni, sto costruendo il mio percorso per diventare Data Analyst.<br> Dopo aver studiato Excel in autonomia, ora sto approfondendo SQL, con l'obiettivo di aggiungere statistica e big data per completare la mia formazione.
 <br>
 📚 Il mio piano di studi
 
@@ -38,4 +38,4 @@ In arrivo: Statistica, Big Data, Python
 
 📫 Contattami
 
-<p align="left"> <a href="https://www.linkedin.com/in/rosa-viceconte-1b14873a0/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="mailto:tuo@email.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/rosa-viceconte-1b14873a0/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="mailto:rosa.viceconte.it@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
