@@ -8,7 +8,7 @@ After studying Excel on my own, I'm now deepening my SQL knowledge, with the goa
 
 📚 My study plan
 
-text
+
 📊 Data Analyst Roadmap
 ├── 📈 Phase 1: Fundamentals (in progress)<br>
 │   ├── Excel (✅ completed)<br>
